@@ -15,7 +15,8 @@ Hoy aplico esa experiencia y mi mirada analítica para crear automatizaciones de
 - **Automatización:** n8n y Make.
 - **Inteligencia artificial:** OpenAI API.
 - **Bases de datos:** Supabase y PostgreSQL.
-- **Integraciones y desarrollo:** REST APIs y JavaScript.
+- **Integraciones y desarrollo:** REST APIs.
+- **En aprendizaje:** Python.
 - **Herramientas de negocio:** Airtable, HubSpot y Slack.
 
 ## Proyectos destacados
